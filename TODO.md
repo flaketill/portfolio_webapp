@@ -1,0 +1,5 @@
+# TODO
+
+- [ ] Database
+- [ ] Backend
+- [ ] Frontend
